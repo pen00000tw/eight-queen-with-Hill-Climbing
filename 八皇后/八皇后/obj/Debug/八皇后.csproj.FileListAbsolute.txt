@@ -1,0 +1,12 @@
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\bin\Debug\八皇后.exe.config
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\bin\Debug\八皇后.exe
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\bin\Debug\八皇后.pdb
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\obj\Debug\八皇后.csprojResolveAssemblyReference.cache
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\obj\Debug\八皇后.Form1.resources
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\obj\Debug\八皇后.Properties.Resources.resources
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\obj\Debug\八皇后.csproj.GenerateResource.Cache
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\obj\Debug\八皇后.exe
+c:\users\kuanmin\documents\visual studio 2013\Projects\八皇后\八皇后\obj\Debug\八皇后.pdb
+D:\人工智慧作業\八皇后\八皇后\bin\Debug\八皇后.exe.config
+D:\人工智慧作業\八皇后\八皇后\obj\Debug\八皇后.exe
+D:\人工智慧作業\八皇后\八皇后\obj\Debug\八皇后.pdb
